@@ -35,6 +35,7 @@
 					<category android:name="android.intent.category.DEFAULT" />
 					<data
 				  		android:scheme="file"
+				  		android:host=""
 						android:pathPattern=".*\\.rdp"
 						android:mimeType="*/*" />
 				</intent-filter>
